@@ -1,1 +1,1 @@
-🍽️ C++ Console App for Restaurant Order Management. Features include an Admin panel for menu and stock control, and a Waiter interface to manage 20 tables. It handles dynamic ordering, custom tax/discount billing, bill splitting, and transaction logging. Built with dynamic memory.
+🍽️ C++ Console App for Restaurant Order Management. Features include an Admin panel for menu and stock control, and a Waiter interface to manage custom size tables. It handles dynamic ordering, custom tax/discount billing, bill splitting, and transaction logging. Built with dynamic memory.
